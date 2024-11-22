@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "DevTools Old icons",
+  "description": "Personally prefered old styled devtools.",
+  "version": "1.5",
+  "devtools_page": "devtools.html",
+  "icons": {
+    "64": "icon.png"
+  }
+}
